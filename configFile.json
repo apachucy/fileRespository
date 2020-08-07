@@ -1,0 +1,63 @@
+{
+  "appVersion": "1.0",
+  "configVersion": "0.0.1",
+  "maxNewsCount": 7,
+  
+  "theme": {
+    "primaryColor": "0xFF42A5F5",
+    "canvasColor": "0xFF42A5F5",
+    "accentColor": "0xFF42A5F5"
+  },
+  
+  "logo": "http://www.festiwal.wroc.pl/2020/mobile_logo.jpg",
+  "tagline": "Nauka 2.0",
+  "website": "http://www.festiwal.wroc.pl/2020/",
+  
+  "newsFeed": "http://www.festiwal.wroc.pl/2020/feed",
+  "eventsFeed": "http://www.festiwal.wroc.pl/2020/events.json",
+  "aboutFeed": "http://www.festiwal.wroc.pl/2020/about.md",
+  
+  "sponsors": [
+    {
+      "type": "Patron",
+      "name": "Ministerstwo Nauki",
+      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
+      "description": "Patron"
+    },
+    {
+      "type": "Dotujący",
+      "name": "Ministerstwo Nauki",
+      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
+      "description": "Projekt jest dotowany z budżetu Gminy Wrocław"
+    },
+    {
+      "type": "Sponsor",
+      "name": "Ministerstwo Nauki",
+      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
+      "description": "sponsor"
+    },
+    {
+      "type": "Sponsor Wspierający",
+      "name": "Ministerstwo Nauki",
+      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
+      "description": "sponsor"
+    },
+    {
+      "type": "Patronat",
+      "name": "Ministerstwo Nauki",
+      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
+      "description": "sponsor"
+    },
+    {
+      "type": "Patronat Medialny",
+      "name": "TVP 3 Wrocław",
+      "logo": "https://pl.wikipedia.org/wiki/TVP3_Wroc%C5%82aw#/media/Plik:Tvp3wroclaw.png",
+      "description": "TVP 3 Wrocław"
+    }
+  ],
+  "aboutFestival": {
+   "title": "O Festiwalu",
+   "subtitle": "Cele Festiwalu",
+   "description":"Dolnośląski Festiwal Nauki jest imprezą popularnonaukową organizowaną co roku we wrześniu (edycja stacjonarna) i październiku (sesje wyjazdowe w Legnicy, Zgorzelcu, Lubinie, Dzierżoniowie, Głogowie, Jeleniej Górze, Wałbrzychu, Ząbkowicach Śląskich oraz Bystrzycy Kłodzkiej) przez wyższe uczelnie Wrocławia, instytuty Polskiej Akademii Nauk oraz środowiska pozauczelniane. Jest adresowany do wszystkich interesujących się nauką, kulturą, sztuką, ciekawymi zjawiskami otaczającego nas świata.\nChcielibyśmy, aby nauka nie była postrzegana jako hermetyczna, niedostępna i niezrozumiała. Chcemy przybliżyć jej tematy, problemy, które rozwiązuje, korzyści, jakie z niej płyną, pokazać jej postęp w różnych dyscyplinach oraz nowe kierunki, jak biotechnologia, nanotechnika i nanotechnologia. Nie unikamy spraw trudnych i drażliwych, a podejmowane tematy są odpowiedzią na ważne dylematy społeczne. W atrakcyjnej, zrozumiałej dla przeciętnego odbiorcy formie staramy się prezentować osiągnięcia nauki we wszystkich dziedzinach wiedzy.\nW naszych zamierzeniach Festiwal Nauki ma być wielką "pigułką edukacyjną" - w krótkim czasie można wysłuchać ciekawych wykładów, brać udział w dyskusjach z uczonymi, zwiedzać na co dzień niedostępne laboratoria i warsztaty badawcze przyrodników, lekarzy, inżynierów, humanistów i artystów.\nChcemy uczestniczyć w procesie kształtowania społeczeństwa dysponującego coraz większym zasobem i poziomem wiedzy, przekonać, że wiedza stoi w centrum najważniejszych procesów cywilizacyjnych i że od sposobu i wielkości finansowania nauki zależy poziom i wykształcenie społeczeństwa, a więc nasze miejsce w Unii Europejskiej i na świecie.\nFestiwal Nauki to także sposób na integrację środowiska naukowego wokół promowania nauki, kształtowanie postaw odpowiedzialności uczonych za wykorzystywanie odkryć naukowych, promocja regionalnych inicjatyw edukacyjnych, uzdolnionej młodzieży oraz pomoc w wyborze kierunku studiów wyższych. To sposób na zainteresowanie przemysłu i firm potencjalnymi możliwościami zastosowań badań i odkryć naukowych. "
+  }
+}
