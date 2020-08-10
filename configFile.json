@@ -19,37 +19,37 @@
   
   "sponsors": [
     {
-      "type": "Patron",
+      "type": "patron",
       "name": "Ministerstwo Nauki",
       "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
       "description": "Patron"
     },
     {
-      "type": "Dotujący",
+      "type": "grant",
       "name": "Ministerstwo Nauki",
       "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
       "description": "Projekt jest dotowany z budżetu Gminy Wrocław"
     },
     {
-      "type": "Sponsor",
+      "type": "regular",
       "name": "Ministerstwo Nauki",
       "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
       "description": "sponsor"
     },
     {
-      "type": "Sponsor Wspierający",
+      "type": "support",
       "name": "Ministerstwo Nauki",
       "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
       "description": "sponsor"
     },
     {
-      "type": "Patronat",
+      "type": "patronage",
       "name": "Ministerstwo Nauki",
       "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
       "description": "sponsor"
     },
     {
-      "type": "Patronat Medialny",
+      "type": "mediaPatronage",
       "name": "TVP 3 Wrocław",
       "logo": "https://pl.wikipedia.org/wiki/TVP3_Wroc%C5%82aw#/media/Plik:Tvp3wroclaw.png",
       "description": "TVP 3 Wrocław"
