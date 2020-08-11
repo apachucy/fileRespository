@@ -15,7 +15,7 @@
   
   "newsFeed": "http://www.festiwal.wroc.pl/2020/feed",
   "eventsFeed": "http://www.festiwal.wroc.pl/2020/events.json",
-  "aboutFeed": "http://www.festiwal.wroc.pl/2020/about.md",
+  "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
   
   "sponsors": [
     {
