@@ -1,27 +1,23 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+# CELE FESTIWALU
+Dolnośląski Festiwal Nauki jest imprezą popularnonaukową organizowaną co roku we wrześniu (edycja stacjonarna) i październiku (sesje wyjazdowe w Legnicy, Zgorzelcu, Lubinie, Dzierżoniowie, Głogowie, Jeleniej Górze, Wałbrzychu, Ząbkowicach Śląskich oraz Bystrzycy Kłodzkiej) przez wyższe uczelnie Wrocławia, instytuty Polskiej Akademii Nauk oraz środowiska pozauczelniane. Jest adresowany do wszystkich interesujących się nauką, kulturą, sztuką, ciekawymi zjawiskami otaczającego nas świata.
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+Chcielibyśmy, aby nauka nie była postrzegana jako hermetyczna, niedostępna i niezrozumiała. Chcemy przybliżyć jej tematy, problemy, które rozwiązuje, korzyści, jakie z niej płyną, pokazać jej postęp w różnych dyscyplinach oraz nowe kierunki, jak biotechnologia, nanotechnika i nanotechnologia. Nie unikamy spraw trudnych i drażliwych, a podejmowane tematy są odpowiedzią na ważne dylematy społeczne. W atrakcyjnej, zrozumiałej dla przeciętnego odbiorcy formie staramy się prezentować osiągnięcia nauki we wszystkich dziedzinach wiedzy.
 
-*This text will be italic*
-_This will also be italic_
+W naszych zamierzeniach Festiwal Nauki ma być wielką "pigułką edukacyjną" - w krótkim czasie można wysłuchać ciekawych wykładów, brać udział w dyskusjach z uczonymi, zwiedzać na co dzień niedostępne laboratoria i warsztaty badawcze przyrodników, lekarzy, inżynierów, humanistów i artystów.
 
-**This text will be bold**
-__This will also be bold__
+Chcemy uczestniczyć w procesie kształtowania społeczeństwa dysponującego coraz większym zasobem i poziomem wiedzy, przekonać, że wiedza stoi w centrum najważniejszych procesów cywilizacyjnych i że od sposobu i wielkości finansowania nauki zależy poziom i wykształcenie społeczeństwa, a więc nasze miejsce w Unii Europejskiej i na świecie.
 
-_You **can** combine them_
+Festiwal Nauki to także sposób na integrację środowiska naukowego wokół promowania nauki, kształtowanie postaw odpowiedzialności uczonych za wykorzystywanie odkryć naukowych, promocja regionalnych inicjatyw edukacyjnych, uzdolnionej młodzieży oraz pomoc w wyborze kierunku studiów wyższych. To sposób na zainteresowanie przemysłu i firm potencjalnymi możliwościami zastosowań badań i odkryć naukowych.
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
-  If you want to embed images, this is how you do it:
+#Lista Sponsorów
+[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
 
-As Kanye West said:
+[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
 
-> We're living the future so
-> the present is our past.
+[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
+
+[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
+
+[![DFN Logo 2020](https://strefakultury.pl/wp-content/uploads/2019/06/mpwik-logo-2017_4_czarne_na_transparentnym_tle.png)](https://www.mpwik.com.pl/)
