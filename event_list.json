@@ -3,7 +3,7 @@
       {
          "title":"Wykłady dla zapracowanych",
          "information":"W tym roku po raz pierwszy (być może nie ostatni) uruchomiliśmy cykl popołudniowych wykładów popularnonaukowych. Po godzinie 16 w festiwalowe dni 19-24.09) zapraszamy do wzięcia udziału w Wykładach dla zapracowanych. Pierwsze spotkania z nauką już po Inauguracji tj. 19.09",
-         "date_add":"1597276800",
+         "date_add":1597276800,
          "name":"Wojska Lądowe; nowe wyzwania, nowe zadania",
          "organizer":"DFN",
          "coordinator":"mgr Monika Kopeć",
@@ -18,10 +18,10 @@
          "online":"www.events.pl",
          "events_time":[
             {
-               "event_date":"1597276800"
+               "event_date":1597276800
             },
             {
-               "event_date":"1597276800"
+               "event_date":1597276800
             }
          ]
       }
