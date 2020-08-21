@@ -6,10 +6,12 @@
   "theme": {
     "primaryColor": "0xFF42A5F5",
     "canvasColor": "0xFF42A5F5",
-    "accentColor": "0xFF42A5F5"
+    "accentColor": "0xFF42A5F5",
+    "accent2Color": "0xFF42A5F5"
   },
   
   "logo": "http://www.festiwal.wroc.pl/2020/images/slider_2020_d.jpg",
+  "taglineLogo": "http://www.festiwal.wroc.pl/2020/images/slider_2020_d.jpg",
   "tagline": "Nauka 2.0",
   "website": "http://www.festiwal.wroc.pl/2020/",
   
