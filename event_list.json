@@ -1,3 +1,25 @@
+{
+   "events":[
+      {
+         "title":"Ewolucja europejskiego pieniądza średniowiecznego.",
+         "description":"opis opis opis",
+         "comment":"uwagi do wydarzenia",
+         "category":"kategoria",
+         "presentation_type":[
+            "forma prezentacji",
+            "forma imprezy"
+         ],
+         "age_group":[
+            "grupa wiekowa",
+            "grupa wiekowa 2"
+         ],
+         "for_family":"tak",
+         "organizer":"organizator",
+         "lecturer":"prowadzący wykład",
+         "co_lecturer":"współprowadzący",
+         "city":"wrocław",
+         "address":"adres",
+         "event_dates":[
             1597276800,
             1597276800,
             1597276800
