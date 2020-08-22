@@ -1,6 +1,7 @@
 {
    "events":[
       {
+         "id": 123,
          "title":"Ewolucja europejskiego pieniądza średniowiecznego.",
          "description":"opis opis opis",
          "comment":"uwagi do wydarzenia",
@@ -30,6 +31,7 @@
          "disabled_accessibility":"tak"
       },
       {
+         "id": 321,
          "title":"TEST test TeSt tEsT TEST test TeSt tEsT TEST test TeSt tEsT TEST test TeSt tEsT TEST test TeSt tEsT .",
          "description":"opis opis opis TEST test TeSt tEsT ",
          "comment":"uwagi do wydarzenia",
