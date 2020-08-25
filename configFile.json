@@ -4,9 +4,9 @@
   "maxNewsCount": 7,
   
   "theme": {
-    "primaryColor": "0xFF42A5F5",
+    "primaryColor": "0xFFFF69B4",
     "canvasColor": "0xFF42A5F5",
-    "accentColor": "0xFF42A5F5",
+    "accentColor": "0xFFFF69B4",
     "accent2Color": "0xFF42A5F5"
   },
   
