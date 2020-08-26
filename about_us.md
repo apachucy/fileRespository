@@ -12,11 +12,11 @@ Festiwal Nauki to także sposób na integrację środowiska naukowego wokół pr
 #Lista Sponsorów
 [![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
 
-[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
+[![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg)](http://www.festiwal.wroc.pl/2020/)
 
-[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
+[![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/XXDFN/logotypy/PL_podstawowy-01.jpg)](http://www.festiwal.wroc.pl/2020/)
 
-[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
+[![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/logo/logo-dolnyslask.gif)](http://www.festiwal.wroc.pl/2020/)
 
 [![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
 
