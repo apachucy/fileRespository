@@ -9,13 +9,13 @@ Chcemy uczestniczyć w procesie kształtowania społeczeństwa dysponującego co
 
 Festiwal Nauki to także sposób na integrację środowiska naukowego wokół promowania nauki, kształtowanie postaw odpowiedzialności uczonych za wykorzystywanie odkryć naukowych, promocja regionalnych inicjatyw edukacyjnych, uzdolnionej młodzieży oraz pomoc w wyborze kierunku studiów wyższych. To sposób na zainteresowanie przemysłu i firm potencjalnymi możliwościami zastosowań badań i odkryć naukowych.
 
-#Lista Sponsorów
+# Lista Sponsorów
 
-##Patron
+## Patron
 [![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg)](http://www.festiwal.wroc.pl/2020/)
 
 
-###Dotujący
+### Dotujący
 
 [![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/XXIII%20DFN%202020/logoWCA.jpg)](http://www.festiwal.wroc.pl/2020/)
 
@@ -23,7 +23,7 @@ Festiwal Nauki to także sposób na integrację środowiska naukowego wokół pr
 
 [![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/logo/logo-dolnyslask.gif)](http://www.festiwal.wroc.pl/2020/)
 
-###Sponsorzy wspierający
+### Sponsorzy wspierający
 
 
 [![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/logo/logo_sms.GIF)](http://www.festiwal.wroc.pl/2020/)
