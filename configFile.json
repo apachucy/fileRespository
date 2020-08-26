@@ -10,14 +10,14 @@
     "backgroundColor": "0xFFF4F4F4"
   },
   
-  "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
-  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/nauka2.0.png",
+  "logo": "https://github.com/apachucy/fileRespository/raw/demo/brain.png",
+  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/demo/nauka2.0.png",
   "tagline": "Nauka 2.0",
   "website": "http://www.festiwal.wroc.pl/2020/",
   
-  "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/news_list",
+  "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/demo/news_list",
   "eventsFeed": "http://www.festiwal.wroc.pl/_mobile/events.json",
-  "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
+  "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/demo/about_us.md",
   
   "sponsors": [
     {
