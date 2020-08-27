@@ -1,6 +1,6 @@
 {
   "appVersion": "1.0.0",
-  "configVersion": 2,
+  "configVersion": 3,
   "maxNewsCount": 7,
   
   "theme": {
@@ -22,33 +22,51 @@
   "sponsors": [
     {
       "type": "patron",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "Patron"
-    },
-    {
-      "type": "grant",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "Projekt jest dotowany z budżetu Gminy Wrocław"
-    },
-    {
-      "type": "regular",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "sponsor"
-    },
-    {
-      "type": "support",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "sponsor"
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron"
     },
     {
       "type": "patronage",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "sponsor"
+      "name": "Urząd Miejski Wrocławia",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XXDFN/logotypy/PL_podstawowy-01.jpg",
+      "description": "patronage"
+    },
+    {
+      "type": "patronage",
+      "name": "Wrocławskie Centrum Akademickie",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XXIII%20DFN%202020/logoWCA.jpg",
+      "description": "patronage"
+    },
+    {
+      "type": "grant",
+      "name": "Urząd Marszałkowski Województwa Dolnoślaskiego",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/logo-dolnyslask.gif",
+      "description": "patronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji we Wrocławiu S.A.",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XXDFN/logotypy/mpwik.png",
+      "description": "mediaPatronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Stan-Mit-Serwis",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/logo_sms.GIF",
+      "description": "mediaPatronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Miesięcznik 'Delta'",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/delta.jpg",
+      "description": "mediaPatronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Miesięcznik 'Chemik'",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/chemik(1).jpg",
+      "description": "mediaPatronage"
     },
     {
       "type": "mediaPatronage",
