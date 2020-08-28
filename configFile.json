@@ -1,6 +1,6 @@
 {
   "appVersion": "1.0.0",
-  "configVersion": 3,
+  "configVersion": 4,
   "maxNewsCount": 7,
   
   "theme": {
@@ -13,7 +13,7 @@
   "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
   "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/nauka2.0.png",
   "tagline": "Nauka 2.0",
-  "website": "http://www.festiwal.wroc.pl/2020/",
+  "website": "incorrect_url",
   
   "newsFeed": "http://www.festiwal.wroc.pl/_mobile/static.json",
   "eventsFeed": "http://www.festiwal.wroc.pl/_mobile/events.json",
