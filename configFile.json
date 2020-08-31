@@ -7,7 +7,8 @@
     "primaryColor": "0xFF854DCF",
     "secondaryColor": "0xFF747589",
     "accentColor": "0xFFEB4280",
-    "backgroundColor": "0xFFF4F4F4"
+    "backgroundColor": "0xFFF4F4F4",
+    "appBarColor": "0xFF3B4FE3",
   },
   
   "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
