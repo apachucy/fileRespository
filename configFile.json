@@ -1,54 +1,73 @@
 {
   "appVersion": "1.0.0",
-  "configVersion": 2,
+  "configVersion": 4,
   "maxNewsCount": 7,
   
   "theme": {
     "primaryColor": "0xFF854DCF",
     "secondaryColor": "0xFF747589",
     "accentColor": "0xFFEB4280",
-    "backgroundColor": "0xFFF4F4F4"
+    "backgroundColor": "0xFFF4F4F4",
+    "appBarColor": "0xFF3B4FE3"
   },
   
-  "logo": "https://github.com/apachucy/fileRespository/raw/demo/brain.png",
-  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/demo/nauka2.0.png",
+  "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
+  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/nauka2.0.png",
   "tagline": "Nauka 2.0",
-  "website": "http://www.festiwal.wroc.pl/2020/",
+  "website": "http://www.festiwal.wroc.pl",
   
   "newsFeed": "http://www.festiwal.wroc.pl/_mobile/static-dfn.json",
   "eventsFeed": "http://www.festiwal.wroc.pl/_mobile/events-dfn.json",
-  "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/demo/about_us.md",
+  "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
   
   "sponsors": [
     {
       "type": "patron",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "Patron"
-    },
-    {
-      "type": "grant",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "Projekt jest dotowany z budżetu Gminy Wrocław"
-    },
-    {
-      "type": "regular",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "sponsor"
-    },
-    {
-      "type": "support",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "sponsor"
+      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "description": "patron"
     },
     {
       "type": "patronage",
-      "name": "Ministerstwo Nauki",
-      "logo": "http://www.festiwal.wroc.pl/2020/mn.jpg",
-      "description": "sponsor"
+      "name": "Urząd Miejski Wrocławia",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XXDFN/logotypy/PL_podstawowy-01.jpg",
+      "description": "patronage"
+    },
+    {
+      "type": "patronage",
+      "name": "Wrocławskie Centrum Akademickie",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XXIII%20DFN%202020/logoWCA.jpg",
+      "description": "patronage"
+    },
+    {
+      "type": "grant",
+      "name": "Urząd Marszałkowski Województwa Dolnoślaskiego",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/logo-dolnyslask.gif",
+      "description": "patronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji we Wrocławiu S.A.",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XXDFN/logotypy/mpwik.png",
+      "description": "mediaPatronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Stan-Mit-Serwis",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/logo_sms.GIF",
+      "description": "mediaPatronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Miesięcznik 'Delta'",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/delta.jpg",
+      "description": "mediaPatronage"
+    },
+    {
+      "type": "mediaPatronage",
+      "name": "Miesięcznik 'Chemik'",
+      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/chemik(1).jpg",
+      "description": "mediaPatronage"
     },
     {
       "type": "mediaPatronage",
