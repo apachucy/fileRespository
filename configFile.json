@@ -16,8 +16,8 @@
   "tagline": "Nauka 2.0",
   "website": "http://www.festiwal.wroc.pl",
   
-  "newsFeed": "http://www.festiwal.wroc.pl/_mobile/static.json",
-  "eventsFeed": "http://www.festiwal.wroc.pl/_mobile/events.json",
+  "newsFeed": "http://www.festiwal.wroc.pl/_mobile/static-dfn.json",
+  "eventsFeed": "http://www.festiwal.wroc.pl/_mobile/events-dfn.json",
   "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
   
   "sponsors": [
