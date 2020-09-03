@@ -138,7 +138,7 @@ aboutFeed | link do pliku, który zawiera informacje o festiwalu, dane z tego pl
 
 Nazwa Pola | Opis | Typ | Przykład
 ------------ | ------------- | ------------- | -------------
-type | typ sponsora, widoczny na zakładce sposorzy w aplikacji mobilnej dostępne typy w aplikacji mobilnej: regular, patron, grant, support, patronage, mediaPatronage, partner| tekst | "regular"
+type | typ sponsora, widoczny na zakładce sposorzy w aplikacji mobilnej. Aplikacja mobilna zawiera następujące typy: regular, patron, grant, support, patronage, mediaPatronage, partner. Dodanie innego typu bez dodania go do aplikacji mobilnej wpłynie na błędne działanie aplikacji| tekst | "regular"
 name | nazwa sponsora, aktualnie niewykorzystywana w aplikacji | tekst | "Wrocławskie Centrum Akademickie"
 logo | logo sponsora | link | "http://www.festiwal.wroc.pl/storage/image/XXIII%20DFN%202020/logoWCA.jpg"
 description | dodatkowy opis przeznaczony dla sponsora, aktualnie pole niewykorzystywane w aplikacji | tekst | "Wrocław jest miastem akademickim. Pracownicy naukowi i studenci stanowią znaczną część populacji. Miejski samorząd kieruje swoją uwa."
