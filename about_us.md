@@ -1,6 +1,5 @@
 # CELE FESTIWALU
-![DFN Logo 2020](http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg)
-<img align="right" src="http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg">
+[![DFN Logo 2020](https://atlanty.pl/images/2015/09/DFN-logo-aktualne.png)](http://www.festiwal.wroc.pl/2020/)
 
 DFN jest wydarzeniem popularnonaukowym organizowanym co roku we wrześniu (edycja stacjonarna) i październiku (sesje wyjazdowe) przez wyższe uczelnie Wrocławia, instytuty PAN oraz instytucje kulturalne i oświatowe. Jest adresowany do wszystkich interesujących się nauką, kulturą, sztuką, ciekawymi zjawiskami otaczającego nas świata bez względu na wiek.
 W ramach wydarzenia w krótkim czasie można wysłuchać ciekawych wykładów, wziąć udział w dyskusjach z uczonymi, zwiedzać na co dzień niedostępne laboratoria i warsztaty badawcze przyrodników, lekarzy, inżynierów, humanistów i artystów.
@@ -15,8 +14,8 @@ ul. Świdnicka 10
 tel. 71 343 37 02
 festiwal@uwr.edu.pl
 
-Znajdź nas!
-[Facebook](https://www.facebook.com/DolnoslaskiFestiwalNauki) 
-[Twitter](https://twitter.com/dolnoslaskifn)
-[Instagram](https://www.instagram.com/dolnoslaskifestiwalnauki/)
+Znajdź nas!  
+[Facebook](https://www.facebook.com/DolnoslaskiFestiwalNauki)   
+[Twitter](https://twitter.com/dolnoslaskifn)  
+[Instagram](https://www.instagram.com/dolnoslaskifestiwalnauki/)  
 
