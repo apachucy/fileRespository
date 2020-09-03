@@ -11,8 +11,8 @@ Wszystkich zainteresowanych współpracą zapraszamy do kontaktu:
 Biuro Dolnośląskiego Festiwalu Nauki
 ul. Świdnicka 10
 50-068 Wrocław
-tel. 71 343 37 02
-festiwal@uwr.edu.pl
+[tel. 71 343 37 02](tel:713433702)
+[festiwal@uwr.edu.pl](mailto:festiwal@uwr.edu.pl)
 
 Znajdź nas!  
 [Facebook](https://www.facebook.com/DolnoslaskiFestiwalNauki)   
