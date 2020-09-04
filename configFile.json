@@ -1,6 +1,6 @@
 {
   "appVersion": "1.0.0",
-  "configVersion": 4,
+  "configVersion": 5,
   "maxNewsCount": 7,
   
   "theme": {
@@ -16,7 +16,7 @@
   "tagline": "Nauka 2.0",
   "website": "http://www.festiwal.wroc.pl",
   
-  "newsFeed": "http://www.festiwal.wroc.pl/_mobile/news-dfn.json",
+  "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/news_list.json",
   "eventsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/event_list.json",
   "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
   
