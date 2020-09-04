@@ -1,32 +1,5 @@
  [
-   {
-      "title":"Czerwony",
-      "content":"Barwa czerwona (czerwień) – jedna z addytywnych barw podstawowych. Na kole barw dopełnia barwę cyjanową.
-
-Niegdyś była uważana za jedną z barw podstawowych w metodzie subtraktywnej i stosowana w poligrafii jako jedna z podstawowych barw farb drukowych, obecnie w tej metodzie jest barwą czystą składającą się z żółtego i magenty. W palecie RGB używanej w telewizorach i monitorach komputerowych czerwony jest jednym z trzech kanałów (oznaczonym literą R).
-https://pl.wikipedia.org/wiki/Barwa_czerwona",
-      "data_add":1599436800,
-      "show_always":"t"
-   },
- {
-      "title":"Niebieski",
-      "content":"Barwa niebieska – jedna z addytywnych barw podstawowych, na kole barw dopełnia barwę żółtą. Zakres światła niebieskiego ma długość fali od ok. 420 do ok. 490 nm. Barwa niebieska ma także swoją ciemniejszą odmianę",
-      "data_add":1599203046,
-      "show_always":"t"
-   },
- {
-      "title":"Żółty",
-      "content":"Barwa żółta (żółć) – subtraktywna barwa podstawowa, na kole barw dopełnia barwę niebieską. Zakres światła żółtego ma długość fali od 565 do 590 nm. Światło mieszane powstające w wyniku mieszania się świateł pochodzącego z dwóch różnokolorowych źródeł, na przykład światło czerwone i zielone, jest także postrzegane przez ludzkie oko jako kolor żółty.
-
-Jako neutralny żółty lub elementarny żółty oznaczono kolor, który odpowiada długości fali 574 nm.
-Żółty może być tonem ciepłym lub zimnym.
-
-kolor ciepły, kolor o odcieniu lekko czerwonawym, nazywamy żółty słoneczny
-barwa zimna to ton o odcieniu lekko zielonkawym nazywanym często żółty cytrynowy",
-      "data_add":1599203046,
-      "show_always":"t"
-   },
- {
+    {
       "title":"Test",
       "content":"Test",
       "data_add":1599203046,
