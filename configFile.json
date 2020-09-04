@@ -4,11 +4,11 @@
   "maxNewsCount": 2,
   
   "theme": {
-    "primaryColor": "0xFFFF0000",
-    "secondaryColor": "0xFFFF0000",
-    "accentColor": "0xFFFF0000",
-    "backgroundColor": "0xFFFF0000",
-    "appBarColor": "0xFFFF0000"
+    "primaryColor": "0xFF000000",
+    "secondaryColor": "0xFF000000",
+    "accentColor": "0xFF000000",
+    "backgroundColor": "0xFF000000",
+    "appBarColor": "0xFF000000"
   },
   
   "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
