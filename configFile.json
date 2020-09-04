@@ -12,8 +12,8 @@
   },
   
   "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
-  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/nauka2.0.png",
-  "tagline": "Nauka 2.0",
+  "taglineLogo": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/media-resources/infosys-nyn-tagline-reverse-png.png",
+  "tagline": "Nauka 2.0 Test",
   "website": "http://www.festiwal.wroc.pl",
   
   "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/news_list.json",
