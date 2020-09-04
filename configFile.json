@@ -1,7 +1,7 @@
 {
   "appVersion": "1.0.0",
-  "configVersion": 5,
-  "maxNewsCount": 7,
+  "configVersion": 6,
+  "maxNewsCount": 2,
   
   "theme": {
     "primaryColor": "0xFF000000",

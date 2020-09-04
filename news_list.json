@@ -1,7 +1,7 @@
  [
    {
       "title":"Test",
-      "content":"TEST",
+      "content":"Test",
       "data_add":1599203046,
       "show_always":"t"
    },
@@ -9,66 +9,6 @@
       "title":"Cześć Damian!",
       "content":"<p>\r\n\tUdanego Weekendu!<\/p>\r\n",
       "data_add":1599202905,
-      "show_always":"t"
-   },
-   {
-      "title":"Odwołane spotkania przygotowane przez Wydział Matematyki i Informatyki Uniwersytetu Wrocławskiego",
-      "content":"<p style=\"text-align: justify;\">\r\n\tZajęcia pt. \"O matematyce w informatyce słów kilka: czemu nieskończoność nieskończoności nie równa i dlaczego komputery nie potrafią zrobić wszystkiego\" oraz \"O matematyce w informatyce słów kilka: czemu nieskończoność nieskończoności nie równa i dlaczego komputery nie potrafią zrobić wszystkiego\" zostały odwołane. Spotkania miały odbyć się na Wydziale Matematyki i Informatyki Uniwersytetu Wrocławskiego.<\/p>\r\n",
-      "data_add":1599201975,
-      "show_always":"t"
-   },
-   {
-      "title":"Odwołane spotkanie \"Jak znaleźć kota na drzewie? Historia steganografii, czyli sztuki ukrywania informacji\"",
-      "content":"<p>\r\n\tSpotkanie pt. \"Jak znaleźć kota na drzewie? Historia steganografii, czyli sztuki ukrywania informacji\", które miało odbyć się na Uniwersytecie Wrocławskim zostało odwołane.<\/p>\r\n",
-      "data_add":1599201658,
-      "show_always":"t"
-   },
-   {
-      "title":"Wszystkie zajęcia przygotowane przez Akademię Muzyczną im. Karola Lipińskiego odbędą się w postaci spotkań online!",
-      "content":"<p>\r\n\tWszystkie zajęcia przygotowane przez Akademię Muzyczną im. Karola Lipińskiego odbędą się w postaci spotkań online! Zapraszamy do programu wydarzeń przygotowanego przez AMKL.<\/p>\r\n",
-      "data_add":1599199048,
-      "show_always":"t"
-   },
-   {
-      "title":"Zajęcia pt. \"Wszyscy ludzie rodzą się wolni i równi. Warsztaty antydyskryminacyjne\" odwołane!",
-      "content":"<p>\r\n\tZajęcia pt. \"Wszyscy ludzie rodzą się wolni i równi. Warsztaty antydyskryminacyjne\", które miały odbyć się na Uniwersytecie Wrocławskim zostały odwołane!<\/p>\r\n",
-      "data_add":1599198695,
-      "show_always":"t"
-   },
-   {
-      "title":"Zajęcia \"Najsłynniejsze dwójki świata\" odwołane",
-      "content":"<p>\r\n\tZajęcia pt. \"Najsłynniejsze dwójki świata\", które miały być realizowane na Uniwersytecie Wrocławskim zostały odwołane.<\/p>\r\n",
-      "data_add":1599198573,
-      "show_always":"t"
-   },
-   {
-      "title":"Zajęcia \"Czy warto oglądać filmy i seriale w j. obcych\" odwołane",
-      "content":"<p>\r\n\tZajęcia pt. \"Czy warto oglądać filmy i seriale w j. obcych\", które miały być zrealizowane na Uniwersytecie Wrocławskim zostały odwołane.<\/p>\r\n",
-      "data_add":1599198533,
-      "show_always":"t"
-   },
-   {
-      "title":"Zajęcia \"Biblioteka nie gryzie\" odwołane",
-      "content":"<p>\r\n\tZajęcia przygotowane przez Uniwersytet Ekonomiczny pt. \"Biblioteka nie gryzie\" zostają odwołane.<\/p>\r\n",
-      "data_add":1599134575,
-      "show_always":"t"
-   },
-   {
-      "title":"Odwołane zajęcia na Politechnice Wrocławskiej!",
-      "content":"<p style=\"text-align: justify;\">\r\n\tZajęcia, które miały odbyć się stacjonarnie na Politechnice Wrocławskiej zostały odwołane. Zajęcia dalej znajdujące się w Programie zrealizowane będą online. Więcej informacji znaleźć można w opisie poszczególnych propozycji.<\/p>\r\n",
-      "data_add":1599130691,
-      "show_always":"t"
-   },
-   {
-      "title":"Zajęcia Wydziału Chemii Uniwersytetu Wrocławskiego online!",
-      "content":"<p style=\"text-align: justify;\">\r\n\tInformujemy, że zajęcia Wydziału Chemii Uniwerytetu Wrocławskiego zostaną przeprowadzone w sieci. Więcej informacji znaleźć można w opisach poszczególnych wydarzeń:<\/p>\r\n<p>\r\n\t\"<a href=\"http:\/\/www.festiwal.wroc.pl\/2020\/?c=events&year=2020&do=detail&id=20721\">Skład szczepionek - czy jest się czego bać?<\/a>\"<\/p>\r\n<p>\r\n\t\"<a href=\"http:\/\/www.festiwal.wroc.pl\/2020\/?c=events&year=2020&do=detail&id=20717\">Atrament - krew czy woda historii<\/a>\"<\/p>\r\n<p>\r\n\t\"<a href=\"http:\/\/www.festiwal.wroc.pl\/2020\/?c=events&year=2020&do=detail&id=20728\">Chemiczne rewolucje w kuchni, czyli chemia w garnku i na patelni<\/a>\"<\/p>\r\n<p>\r\n\t\"<a href=\"http:\/\/www.festiwal.wroc.pl\/2020\/?c=events&year=2020&do=detail&id=20719\">Biomimetyczne implanty: kości \"wyhodowane\" w laboratorium chemicznym<\/a>\"<\/p>\r\n<p>\r\n\tZajęcia odbędą się na platformie Teams.<\/p>\r\n<p>\r\n\tZapraszamy do wzięcia udziału.<\/p>\r\n",
-      "data_add":1599127199,
-      "show_always":"t"
-   },
-   {
-      "title":"XXIII Dolnośląski Festiwal Nauki tylko w Internecie!!!",
-      "content":"<p>\r\n\tSzanowni Państwo, Miłośnicy Festiwalu!<\/p>\r\n<p style=\"text-align: justify;\">\r\n\tDecyzją Kolegium Rektorów Uczelni Wrocławia i Opola podjętą w oparciu o aktualną sytuację zagrożenia epidemicznego XXIII Dolnośląski Festiwal Nauki w postaci tradycyjnej nie odbędzie się! Decyzja dotyczy zarówno edycji stacjonarnej (wrocławskiej) jak i edycji regionalnej i Interaktywnych pokazów w szkołach! Zapraszamy do wzięcia udziału w zajęciach przygotowanych i realizowanych w Internecie. Takie informacje znaleźć można śledząc naszą stronę internetową oraz opisy poszczególnych wydarzeń.<\/p>\r\n<p style=\"text-align: justify;\">\r\n\tZajęcia, które odbywać się będą w sieci realizowane będą dwutorowo. W postaci zajęć wcześniej nagranych i udostępnionych na platformie YouTube - linki do zajęć znajdą się przy konkretnych wydarzeniach (np. uroczysta Inauguracja DFN oraz Wykład prof. Miodka) w najbliższym czasie oraz w postaci spotkań prowadzonych on-line przez platformy takie jak Zoom, Teams, Facebook, Gmail etc. - jak powyżej, linki wraz z informacją znaleźć będzie można w opisie konkretnego spotkania.<\/p>\r\n<p style=\"text-align: justify;\">\r\n\tZapraszamy także do pobrania aplikacji Dolnośląskiego Festiwalu Nauki, która będzie dostępna w sklepie od przyszłego tygodnia!<\/p>\r\n<p style=\"text-align: justify;\">\r\n\tW razie pytań zapraszamy do kontaktu z biurem DFN.<\/p>\r\n<p style=\"text-align: justify;\">\r\n\tPK<\/p>\r\n",
-      "data_add":1599111282,
       "show_always":"t"
    }
 ]   
