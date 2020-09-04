@@ -1,66 +1,171 @@
-{
-   "events":[
-      {
-         "id": 123,
-         "title":"Ewolucja europejskiego pieniądza średniowiecznego.",
-         "description":"opis opis opis",
-         "comment":"uwagi do wydarzenia",
-         "category":"kategoria",
-         "presentation_type":[
-            "forma prezentacji",
-            "forma imprezy"
-         ],
-         "age_group":[
-            "grupa wiekowa",
-            "grupa wiekowa 2"
-         ],
-         "for_family":"tak",
-         "organizer":"organizator",
-         "lecturer":"prowadzący wykład",
-         "co_lecturer":"współprowadzący",
-         "city":"wrocław",
-         "address":"adres",
-         "event_dates":[
-            1597276800,
-            1597276800,
-            1597276800
-         ],
-         "online_url":"www.youtube.com",
-         "registration":"zapisy do września: zapisy@pwr.edu.pl",
-         "number_of_seats":10,
-         "disabled_accessibility":"tak"
-      },
-      {
-         "id": 321,
-         "title":"TEST test TeSt tEsT TEST test TeSt tEsT TEST test TeSt tEsT TEST test TeSt tEsT TEST test TeSt tEsT .",
-         "description":"opis opis opis TEST test TeSt tEsT ",
-         "comment":"uwagi do wydarzenia",
-         "category":"kategoria",
-         "presentation_type":[
-            "forma prezentacji",
-            "forma imprezy",
-            "testowa"
-         ],
-         "age_group":[
-            "grupa wiekowa",
-            "grupa wiekowa 2",
-            "nieletni"
-         ],
-         "for_family":"tak",
-         "organizer":"organizator",
-         "lecturer":"prowadzący wykład",
-         "co_lecturer":"współprowadzący",
-         "city":"Wrocław",
-         "address":"Strzegomska 142A",
-         "event_dates":[
-            1597276800,
-            1597276800,
-            1597276800
-         ],
-         "online_url":"www.youtube.com",
-         "registration":"zapisy do września: zapisy@pwr.edu.pl",
-         "number_of_seats":100,
-         "disabled_accessibility":"nie"
-      }
-   ]
-}
+[
+  {
+    "id": "20378",
+    "title": "In teams silence isn't golden - effective team communication",
+    "description": "Zespół projektowy w korporacji czy na uczelni, zespół badawczy w szkole, komitet organizacyjny – każdy ma swojego lidera, ale, co najważniejsze, w każdym chodzi przede wszystkim o współdziałanie. Komunikacja w zespole jest kluczowa, jeśli chcemy dobrze pracować w grupach. Warsztaty przybliżają uczestnikom główne zagadnienia związane z komunikacją w zespołach – forma aktywizujących ćwiczeń pozwala wszystkim uczestnikom doświadczyć efektów skutecznej komunikacji. \r\nWarsztat w języku angielskim. Wymagany poziom: B2 i powyżej.",
+    "comment": "warsztat w j. angielskim, wymagany poziom B2 i powyżej",
+    "category": "Nauki humanistyczne",
+    "presentation_type": [
+      "warsztat"
+    ],
+    "age_group": {
+      "noLimit": "nie",
+      "kindergarten": "nie",
+      "primary_school": "nie",
+      "primary_school_grades_1_to_3": "nie",
+      "primary_school_grades_4_to_6": "nie",
+      "primary_school_grades_7_to_8": "nie",
+      "secondary_school": "tak",
+      "adults": "tak"
+    },
+    "for_family": "nie",
+    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
+    "lecturer": "dr Ewa Biernacka-Dębska",
+    "co_lecturer": "",
+    "city": "Wrocław",
+    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 105)",
+    "event_dates": [
+      1600855200
+    ],
+    "online_url": "",
+    "registration": "14-18.09, ewa.biernacka-debska@uwr.edu.pl",
+    "number_of_seats": "24",
+    "disabled_accessibility": "nie dotyczy"
+  },
+  {
+    "id": "20379",
+    "title": "Jak skuteczniej uczyć się języka angielskiego. How to boost your English language skills?",
+    "description": "W czasie prezentacji mowa bedzie o tym, jak nasz mózg zapamiętuje nowe treści, jak działa krótktrwała i długotrwała pamięć  i jak w związku z tym uczyć się języków obcych, aby nauka była jak najbardziej skuteczna. Jak uczyć się słownictwa aby nie zapominać i poprawnie używać nowych słów; jak uczyć się gramatyki by budować poprawne wypowiedzi. Przedstawione zostaną przykładowe techniki i wskazówki mające na celu wspomóc proces uczenia się języka angielskiego.",
+    "comment": "",
+    "category": "Nauki humanistyczne",
+    "presentation_type": [
+      "warsztat"
+    ],
+    "age_group": {
+      "noLimit": "nie",
+      "kindergarten": "nie",
+      "primary_school": "nie",
+      "primary_school_grades_1_to_3": "nie",
+      "primary_school_grades_4_to_6": "nie",
+      "primary_school_grades_7_to_8": "nie",
+      "secondary_school": "tak",
+      "adults": "nie"
+    },
+    "for_family": "nie",
+    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
+    "lecturer": "mgr Urszula Byra-Marciniak",
+    "co_lecturer": "",
+    "city": "Wrocław",
+    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 106)",
+    "event_dates": [
+      1600671600,
+      1600677000
+    ],
+    "online_url": "",
+    "registration": "1-16.09, urszula.byra-marciniak@uwr.edu.pl",
+    "number_of_seats": "0",
+    "disabled_accessibility": "nie dotyczy"
+  },
+  {
+    "id": "20380",
+    "title": "Wykorzystanie technologii w nauce języka angielskiego",
+    "description": "Nowe technologie to przełom w nauce języków obcych. Dlatego ważnym jest aby zostały stosownie wykorzystane. Niniejsze warsztaty mają na celu pokazać jak najumiejętniej wykorzystać dostępną technologię w procesie nauki języka angielskiego. Pokażemy z których aplikacji i w jaki sposób korzystać tak, aby nauka miała jeszcze większe efekty. Zapraszamy!",
+    "comment": "",
+    "category": "Nauki humanistyczne",
+    "presentation_type": [
+      "warsztat"
+    ],
+    "age_group": {
+      "noLimit": "nie",
+      "kindergarten": "nie",
+      "primary_school": "nie",
+      "primary_school_grades_1_to_3": "nie",
+      "primary_school_grades_4_to_6": "nie",
+      "primary_school_grades_7_to_8": "nie",
+      "secondary_school": "tak",
+      "adults": "nie"
+    },
+    "for_family": "nie",
+    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
+    "lecturer": "mgr Anna Kulczycka-Charusta, mgr Karolina Mańczyk",
+    "co_lecturer": "",
+    "city": "Wrocław",
+    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 105)",
+    "event_dates": [
+      1600682400
+    ],
+    "online_url": "",
+    "registration": "1-7.09, anna.kulczycka-charusta@uwr.edu.pl",
+    "number_of_seats": "25",
+    "disabled_accessibility": "nie dotyczy"
+  },
+  {
+    "id": "20381",
+    "title": "TED Talks jako współczesny standard skutecznej prezentacji",
+    "description": "W ostatnim czasie przemówienia wygłaszane w ramach corocznej konferencji TED zaczęły wyznaczać standard w zakresie przemówień publicznych. Znajomość sztuki skutecznego prezentowania jest kluczową umiejętnością w 21 wieku. Stąd, celem warsztatu jest pokazać jakimi narzędziami posługują się mówcy, których przemówienia zdobyły serca publiczności.",
+    "comment": "znajomość j. angielskiego na poziomie B2",
+    "category": "Nauka 2.0",
+    "presentation_type": [
+      "warsztat"
+    ],
+    "age_group": {
+      "noLimit": "nie",
+      "kindergarten": "nie",
+      "primary_school": "nie",
+      "primary_school_grades_1_to_3": "nie",
+      "primary_school_grades_4_to_6": "nie",
+      "primary_school_grades_7_to_8": "nie",
+      "secondary_school": "tak",
+      "adults": "nie"
+    },
+    "for_family": "nie",
+    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
+    "lecturer": "mgr Magdalena Chrzanowska",
+    "co_lecturer": "",
+    "city": "Wrocław",
+    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 02)",
+    "event_dates": [
+      1600844400
+    ],
+    "online_url": "",
+    "registration": "1-11.09, magdalena.chrzanowska@uwr.edu.pl",
+    "number_of_seats": "25",
+    "disabled_accessibility": "tak"
+  },
+  {
+    "id": "20382",
+    "title": "Tradycje i obyczaje kultywowane w Wielkiej Brytanii do dziś",
+    "description": "Prezentacja i warsztaty na temat kultywowanych do dziś obyczajów i tradycji w Wielkiej Brytanii.\r\nBritish Customs and Traditions (that you have probably never heard of )",
+    "comment": "",
+    "category": "Nauki humanistyczne",
+    "presentation_type": [
+      "warsztat",
+      "gra",
+      "konkurs"
+    ],
+    "age_group": {
+      "noLimit": "nie",
+      "kindergarten": "nie",
+      "primary_school": "nie",
+      "primary_school_grades_1_to_3": "nie",
+      "primary_school_grades_4_to_6": "nie",
+      "primary_school_grades_7_to_8": "nie",
+      "secondary_school": "tak",
+      "adults": "tak"
+    },
+    "for_family": "nie",
+    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
+    "lecturer": "mgr Joanna Grzegorczyk",
+    "co_lecturer": "",
+    "city": "Wrocław",
+    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 02)",
+    "event_dates": [
+      1600855200
+    ],
+    "online_url": "",
+    "registration": "1-16.09, joanna.grzegorczyk@uwr.edu.pl",
+    "number_of_seats": "25",
+    "disabled_accessibility": "tak"
+  }
+  
+]
