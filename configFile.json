@@ -1,14 +1,14 @@
 {
   "appVersion": "1.0.0",
-  "configVersion": 4,
-  "maxNewsCount": 7,
+  "configVersion": 6,
+  "maxNewsCount": 2,
   
   "theme": {
-    "primaryColor": "0xFF854DCF",
-    "secondaryColor": "0xFF747589",
-    "accentColor": "0xFFEB4280",
-    "backgroundColor": "0xFFF4F4F4",
-    "appBarColor": "0xFF3B4FE3"
+    "primaryColor": "0xFF000000",
+    "secondaryColor": "0xFF000000",
+    "accentColor": "0xFF000000",
+    "backgroundColor": "00xFF000000",
+    "appBarColor": "0xFF000000"
   },
   
   "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
@@ -16,8 +16,8 @@
   "tagline": "Nauka 2.0",
   "website": "http://www.festiwal.wroc.pl",
   
-  "newsFeed": "http://www.festiwal.wroc.pl/_mobile/static-dfn.json",
-  "eventsFeed": "http://www.festiwal.wroc.pl/_mobile/events-dfn.json",
+  "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/demo/news_list",
+  "eventsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/event_list.json",
   "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
   
   "sponsors": [
