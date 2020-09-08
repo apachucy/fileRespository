@@ -1,4 +1,4 @@
-# Dokumentacja Techniczna
+# Dokumentacja Techniczna Dla Mobilnej Aplikacji DFN 2020
 Pliki konfiguracyjne znajdują się na ftp'ie
 vm-szkoly.wcss.wroc.pl
 w katalogu public_html/_mobile/
@@ -150,8 +150,11 @@ appBarColor | kolor głównego/górnego menu |  Color w hexie, wraz z informacj�
     
 ##### Przykład kolorów 
 
-[![News](https://github.com/apachucy/fileRespository/raw/master/images/news.jpg)]
+![News](https://github.com/apachucy/fileRespository/raw/master/images/news.jpg)
 Przykład wykorzystania domyślnej kolorystyki na ekranie aktualności
+
+![News](https://github.com/apachucy/fileRespository/raw/master/images/news_alternative.jpg)
+Przykład wykorzystania alternatywnej kolorystyki na ekranie aktualności
 
 #### Konfiguracja Danych do aplikacji
 
@@ -177,11 +180,11 @@ aboutFeed | link do pliku, który zawiera informacje o festiwalu, dane z tego pl
         ...
     }
 
-[![Splash Screen](https://github.com/apachucy/fileRespository/raw/master/images/splash_screen.jpg)]
+![Splash Screen](https://github.com/apachucy/fileRespository/raw/master/images/splash_screen.jpg)
 Ekran splash screen wyświetla "taglineLogo" oraz "logo"
-[![News](https://github.com/apachucy/fileRespository/raw/master/images/news.jpg)]
+![News](https://github.com/apachucy/fileRespository/raw/master/images/news.jpg)
 Ekran Aktualności wyświetla informacje, które znajduja się w "newsFeed"
-[![Events](https://github.com/apachucy/fileRespository/raw/master/images/events.jpg)]
+![Events](https://github.com/apachucy/fileRespository/raw/master/images/events.jpg)
 Ekran Wydarzeń wyświetla informacje, które znajdują się w propercie "eventsFeed"
 
 #### Sponsorzy
@@ -208,5 +211,5 @@ link | strona sponsora, pole może być puste | String | "https://www.wroclaw.pl
     }    
         
 
-[![Sponsorzy](https://github.com/apachucy/fileRespository/raw/master/images/sponsors.jpg)]
+![Sponsorzy](https://github.com/apachucy/fileRespository/raw/master/images/sponsors.jpg)
 Ekran ten zawiera informacje z tablicy "sponsors"
