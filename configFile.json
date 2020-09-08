@@ -5,10 +5,10 @@
   
   "theme": {
     "primaryColor": "0xFFFFFF00",
-    "secondaryColor": "0xFFFFFF00",
-    "accentColor": "0xFFffff00",
-    "backgroundColor": "0xFFffff00",
-    "appBarColor": "0xFFffff00"
+    "secondaryColor": "0xFF00FFFF",
+    "accentColor": "0xFF7FFFD4",
+    "backgroundColor": "0xFF00CCFF",
+    "appBarColor": "0xFFFFB6C1"
   },
   
   "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
