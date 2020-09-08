@@ -11,10 +11,10 @@
     "appBarColor": "0xFFFFB6C1"
   },
   
-  "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
-  "taglineLogo": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/media-resources/infosys-nyn-tagline-reverse-png.png",
-  "tagline": "Nauka 2.0 Test",
-  "website": "www.onet.pl",
+  "logo": "http://www.festiwal.wroc.pl/_mobile/dfn/brain.png",
+  "taglineLogo": "http://www.festiwal.wroc.pl/_mobile/dfn/nauka2.0.png",
+  "tagline": "Nauka 2.0",
+  "website": "http://www.festiwal.wroc.pl",
   
   "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/news_list.json",
   "eventsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/event_list.json",
