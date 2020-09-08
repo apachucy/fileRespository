@@ -25,10 +25,10 @@ w katalogu public_html/_mobile/
       
       "theme": {
         "primaryColor": "0xFF854DCF",
-        "secondaryColor": "0xFF747589",
-        "accentColor": "0xFFEB4280",
-        "backgroundColor": "0xFFF4F4F4",
-        "appBarColor": "0xFF3B4FE3"
+        "secondaryColor": "0xFFB32750",
+        "accentColor": "0xFFF86000",
+        "backgroundColor": "0xFFFFB6C1",
+        "appBarColor": "0xFFE066FF"
       },
       
       "logo": "http://www.festiwal.wroc.pl/_mobile/dfn/brain.png",
