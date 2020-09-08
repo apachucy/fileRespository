@@ -4,17 +4,16 @@
   "maxNewsCount": 15,
   
   "theme": {
-    "primaryColor": "0xFFFFFF00",
-    "secondaryColor": "0xFFFFFF00",
-    "accentColor": "0xFFffff00",
-    "backgroundColor": "0xFFffff00",
-    "appBarColor": "0xFFffff00"
+    "primaryColor": "0xFF4caf50",
+    "secondaryColor": "0xFFab47bc",
+    "accentColor": "0xFFffffff",
+    "backgroundColor": "0xFFeeeeee",
+    "appBarColor": "0xFF80e27e"
   },
-  
-  "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
-  "taglineLogo": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/media-resources/infosys-nyn-tagline-reverse-png.png",
-  "tagline": "Nauka 2.0 Test",
-  "website": "www.onet.pl",
+ "logo": "http://www.festiwal.wroc.pl/_mobile/dfn/brain.png",
+  "taglineLogo": "http://www.festiwal.wroc.pl/_mobile/dfn/nauka2.0.png",
+  "tagline": "Nauka 2.0",
+  "website": "http://www.festiwal.wroc.pl",
   
   "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/news_list.json",
   "eventsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/event_list.json",
@@ -52,10 +51,10 @@
       "description": "mediaPatronage"
     },
     {
-      "type": "mediaPatronage",
+      "type": "support",
       "name": "Stan-Mit-Serwis",
       "logo": "http://www.festiwal.wroc.pl/storage/image/logo/logo_sms.GIF",
-      "description": "mediaPatronage"
+      "description": "support"
     },
     {
       "type": "mediaPatronage",
@@ -63,17 +62,24 @@
       "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/delta.jpg",
       "description": "mediaPatronage"
     },
-    {
+    
+{
+      "type": "partner",
+      "name": "Objectivity",
+      "logo": "https://www.wroclaw.pl/files/cmsdocuments/15058694/logo_object.jpg",
+      "description": "partner"
+    },
+{
       "type": "mediaPatronage",
       "name": "Miesięcznik 'Chemik'",
       "logo": "http://www.festiwal.wroc.pl/storage/image/logo/chemik(1).jpg",
       "description": "mediaPatronage"
     },
     {
-      "type": "mediaPatronage",
+      "type": "regular",
       "name": "TVP 3 Wrocław",
-      "logo": "https://pl.wikipedia.org/wiki/TVP3_Wroc%C5%82aw#/media/Plik:Tvp3wroclaw.png",
-      "description": "TVP 3 Wrocław"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Firefox_Logo%2C_2017.png",
+      "description": "regular"
     }
   ]
 }
