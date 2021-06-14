@@ -15,7 +15,7 @@
   "tagline": "Nauka 2.0",
   "website": "http://www.festiwal.wroc.pl",
   
-  "newsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/news_list.json",
+  "newsFeed": "https://www.festiwal.wroc.pl/wp-json/wp/v2/posts",
   "eventsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/event_list.json",
   "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
   
