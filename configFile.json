@@ -10,8 +10,8 @@
     "backgroundColor": "0xFFeeeeee",
     "appBarColor": "0xFF80e27e"
   },
- "logo": "http://www.festiwal.wroc.pl/_mobile/dfn/brain.png",
-  "taglineLogo": "http://www.festiwal.wroc.pl/_mobile/dfn/nauka2.0.png",
+ "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
+  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/nauka2.0.png",
   "tagline": "Nauka 2.0",
   "website": "http://www.festiwal.wroc.pl",
   
