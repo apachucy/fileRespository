@@ -4,11 +4,11 @@
   "maxNewsCount": 15,
   
   "theme": {
-    "primaryColor": "0xFF4caf50",
-    "secondaryColor": "0xFFab47bc",
-    "accentColor": "0xFFffffff",
-    "backgroundColor": "0xFFeeeeee",
-    "appBarColor": "0xFF80e27e"
+    "primaryColor": "0xFF854DCF",
+    "secondaryColor": "0xFF747589",
+    "accentColor": "0xFFEB4280",
+    "backgroundColor": "0xFFF4F4F4",
+    "appBarColor": "0xFF3B4FE3"
   },
  "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
   "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/nauka2.0.png",
@@ -23,62 +23,62 @@
     {
       "type": "patron",
       "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/mnisw.jpg",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "patron"
     },
     {
       "type": "patronage",
       "name": "Urząd Miejski Wrocławia",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/XXDFN/logotypy/PL_podstawowy-01.jpg",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "patronage"
     },
     {
       "type": "patronage",
       "name": "Wrocławskie Centrum Akademickie",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/XXIII%20DFN%202020/logoWCA.jpg",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "patronage"
     },
     {
       "type": "grant",
       "name": "Urząd Marszałkowski Województwa Dolnoślaskiego",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/logo-dolnyslask.gif",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "patronage"
     },
     {
       "type": "mediaPatronage",
       "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji we Wrocławiu S.A.",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/XXDFN/logotypy/mpwik.png",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "mediaPatronage"
     },
     {
       "type": "support",
       "name": "Stan-Mit-Serwis",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/logo_sms.GIF",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "support"
     },
     {
       "type": "mediaPatronage",
       "name": "Miesięcznik 'Delta'",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/XVI%20DFN%202013/logotypy/delta.jpg",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "mediaPatronage"
     },
     
 {
       "type": "partner",
       "name": "Objectivity",
-      "logo": "https://www.wroclaw.pl/files/cmsdocuments/15058694/logo_object.jpg",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "partner"
     },
 {
       "type": "mediaPatronage",
       "name": "Miesięcznik 'Chemik'",
-      "logo": "http://www.festiwal.wroc.pl/storage/image/logo/chemik(1).jpg",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "mediaPatronage"
     },
     {
       "type": "regular",
       "name": "TVP 3 Wrocław",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Firefox_Logo%2C_2017.png",
+      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
       "description": "regular"
     }
   ]
