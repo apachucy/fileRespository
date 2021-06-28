@@ -24,43 +24,50 @@
       "type": "patron",
       "name": "MINISTERSTWO Edukacji i Nauki",
       "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/logoMEiN.jpg",
-      "description": "XXIV Dolnośląski Festiwal Nauki 2021 dofinansowany z programu “Społeczna odpowiedzialności nauki” Ministra Nauki i Szkolnictwa Wyższego"
+      "description": "XXIV Dolnośląski Festiwal Nauki 2021 dofinansowany z programu “Społeczna odpowiedzialności nauki” Ministra Nauki i Szkolnictwa Wyższego",
+	  "link": "https://www.gov.pl/web/edukacja-i-nauka"
     },
     {
       "type": "patronage",
       "name": "Wrocławskie Centrum Akademickie",
       "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/grant_wca.jpg",
-      "description": "patronage"
+      "description": "patronage",
+	  "link": "https://wca.wroc.pl/"
     },
 	{
       "type": "patronage",
       "name": "Województwo Dolnośląskie",
       "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/grant_ds.jpg",
-      "description": "Projekt jest współfinansowany z budżetu Województwa Dolnośląskiego"
+      "description": "Projekt jest współfinansowany z budżetu Województwa Dolnośląskiego",
+	   "link": "https://umwd.dolnyslask.pl/"
     },
 	{
       "type": "partner",
       "name": "Objectivity",
       "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/partner_o.jpg",
-      "description": "partner"
+      "description": "partner",
+	   "link": "https://joinus.objectivity.co.uk/"
     },
 	{
       "type": "partner",
       "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji we Wrocławiu S.A.",
       "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/mpwik150l.jpg",
-      "description": "partner"
+      "description": "partner",
+	   "link": "https://mpwik.wroc.pl/"
     },
 	{
       "type": "partner",
       "name": "PijKranowke",
       "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/pijkranowke.jpg",
-      "description": "partner"
+      "description": "partner",
+	   "link": "https://pijkranowke.pl/"
     },
     {
       "type": "support",
       "name": "Stan-Mit-Serwis",
       "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/stan-mit-serwis.png",
-      "description": "support"
+      "description": "support",
+	  "link": "https://www.stan-mit.com.pl/"
     }
   ]
 }
