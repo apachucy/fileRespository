@@ -22,64 +22,45 @@
   "sponsors": [
     {
       "type": "patron",
-      "name": "MINISTERSTWO NAUKI I SZKOLNICTWA WYŻSZEGO",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "patron"
-    },
-    {
-      "type": "patronage",
-      "name": "Urząd Miejski Wrocławia",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "patronage"
+      "name": "MINISTERSTWO Edukacji i Nauki",
+      "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/logoMEiN.jpg",
+      "description": "XXIV Dolnośląski Festiwal Nauki 2021 dofinansowany z programu “Społeczna odpowiedzialności nauki” Ministra Nauki i Szkolnictwa Wyższego"
     },
     {
       "type": "patronage",
       "name": "Wrocławskie Centrum Akademickie",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
+      "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/grant_wca.jpg",
       "description": "patronage"
     },
-    {
-      "type": "grant",
-      "name": "Urząd Marszałkowski Województwa Dolnoślaskiego",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "patronage"
+	{
+      "type": "patronage",
+      "name": "Województwo Dolnośląskie",
+      "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/grant_ds.jpg",
+      "description": "Projekt jest współfinansowany z budżetu Województwa Dolnośląskiego"
     },
-    {
-      "type": "mediaPatronage",
+	{
+      "type": "partner",
+      "name": "Objectivity",
+      "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/partner_o.jpg",
+      "description": "partner"
+    },
+	{
+      "type": "partner",
       "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji we Wrocławiu S.A.",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "mediaPatronage"
+      "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/mpwik150l.jpg",
+      "description": "partner"
+    },
+	{
+      "type": "partner",
+      "name": "PijKranowke",
+      "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/pijkranowke.jpg",
+      "description": "partner"
     },
     {
       "type": "support",
       "name": "Stan-Mit-Serwis",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
+      "logo": "https://github.com/apachucy/fileRespository/raw/master/sponsors/stan-mit-serwis.png",
       "description": "support"
-    },
-    {
-      "type": "mediaPatronage",
-      "name": "Miesięcznik 'Delta'",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "mediaPatronage"
-    },
-    
-{
-      "type": "partner",
-      "name": "Objectivity",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "partner"
-    },
-{
-      "type": "mediaPatronage",
-      "name": "Miesięcznik 'Chemik'",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "mediaPatronage"
-    },
-    {
-      "type": "regular",
-      "name": "TVP 3 Wrocław",
-      "logo": "https://www.wnoz.umed.wroc.pl/sites/default/files/styles/aktualnosci/public/34491_136603516371931_902515_n.jpg?itok=P_RTw3iX",
-      "description": "regular"
     }
   ]
 }
