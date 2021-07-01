@@ -11,8 +11,8 @@
     "appBarColor": "0xFF3B4FE3"
   },
  "logo": "https://github.com/apachucy/fileRespository/raw/master/brain.png",
-  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/nauka2.0.png",
-  "tagline": "Nauka 2.0",
+  "taglineLogo": "https://github.com/apachucy/fileRespository/raw/master/dfn_motto.svg",
+  "tagline": "festiwal.wroc.pl",
   "website": "http://www.festiwal.wroc.pl",
   
   "newsFeed": "https://www.festiwal.wroc.pl/wp-json/wp/v2/posts",
