@@ -1,6 +1,6 @@
 {
-  "appVersion": "1.0.0",
-  "configVersion": 9,
+  "appVersion": "1.1.0",
+  "configVersion": 10,
   "maxNewsCount": 15,
   
   "theme": {
@@ -16,7 +16,7 @@
   "website": "http://www.festiwal.wroc.pl",
   
   "newsFeed": "https://www.festiwal.wroc.pl/wp-json/wp/v2/posts",
-  "eventsFeed": "https://www.festiwal.wroc.pl/wp-json/wp/v2/events-list?all=true",
+  "eventsFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/event_list.json",
   "aboutFeed": "https://raw.githubusercontent.com/apachucy/fileRespository/master/about_us.md",
   
   "sponsors": [

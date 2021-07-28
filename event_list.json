@@ -1,171 +1,79 @@
 [
-  {
-    "id": "20378",
-    "title": "In teams silence isn't golden - effective team communication",
-    "description": "Zespół projektowy w korporacji czy na uczelni, zespół badawczy w szkole, komitet organizacyjny – każdy ma swojego lidera, ale, co najważniejsze, w każdym chodzi przede wszystkim o współdziałanie. Komunikacja w zespole jest kluczowa, jeśli chcemy dobrze pracować w grupach. Warsztaty przybliżają uczestnikom główne zagadnienia związane z komunikacją w zespołach – forma aktywizujących ćwiczeń pozwala wszystkim uczestnikom doświadczyć efektów skutecznej komunikacji. \r\nWarsztat w języku angielskim. Wymagany poziom: B2 i powyżej.",
-    "comment": "warsztat w j. angielskim, wymagany poziom B2 i powyżej",
-    "category": "Nauki humanistyczne",
-    "presentation_type": [
-      "warsztat"
-    ],
-    "age_group": {
-      "noLimit": "nie",
-      "kindergarten": "nie",
-      "primary_school": "nie",
-      "primary_school_grades_1_to_3": "nie",
-      "primary_school_grades_4_to_6": "nie",
-      "primary_school_grades_7_to_8": "nie",
-      "secondary_school": "tak",
-      "adults": "tak"
-    },
-    "for_family": "nie",
-    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
-    "lecturer": "dr Ewa Biernacka-Dębska",
-    "co_lecturer": "",
-    "city": "Wrocław",
-    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 105)",
-    "event_dates": [
-      1600855200
-    ],
-    "online_url": "",
-    "registration": "14-18.09, ewa.biernacka-debska@uwr.edu.pl",
-    "number_of_seats": "24",
-    "disabled_accessibility": "nie dotyczy"
-  },
-  {
-    "id": "20379",
-    "title": "Jak skuteczniej uczyć się języka angielskiego. How to boost your English language skills?",
-    "description": "W czasie prezentacji mowa bedzie o tym, jak nasz mózg zapamiętuje nowe treści, jak działa krótktrwała i długotrwała pamięć  i jak w związku z tym uczyć się języków obcych, aby nauka była jak najbardziej skuteczna. Jak uczyć się słownictwa aby nie zapominać i poprawnie używać nowych słów; jak uczyć się gramatyki by budować poprawne wypowiedzi. Przedstawione zostaną przykładowe techniki i wskazówki mające na celu wspomóc proces uczenia się języka angielskiego.",
-    "comment": "",
-    "category": "Nauki humanistyczne",
-    "presentation_type": [
-      "warsztat"
-    ],
-    "age_group": {
-      "noLimit": "nie",
-      "kindergarten": "nie",
-      "primary_school": "nie",
-      "primary_school_grades_1_to_3": "nie",
-      "primary_school_grades_4_to_6": "nie",
-      "primary_school_grades_7_to_8": "nie",
-      "secondary_school": "tak",
-      "adults": "nie"
-    },
-    "for_family": "nie",
-    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
-    "lecturer": "mgr Urszula Byra-Marciniak",
-    "co_lecturer": "",
-    "city": "Wrocław",
-    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 106)",
-    "event_dates": [
-      1600671600,
-      1600677000
-    ],
-    "online_url": "",
-    "registration": "1-16.09, urszula.byra-marciniak@uwr.edu.pl",
-    "number_of_seats": "0",
-    "disabled_accessibility": "nie dotyczy"
-  },
-  {
-    "id": "20380",
-    "title": "Wykorzystanie technologii w nauce języka angielskiego",
-    "description": "Nowe technologie to przełom w nauce języków obcych. Dlatego ważnym jest aby zostały stosownie wykorzystane. Niniejsze warsztaty mają na celu pokazać jak najumiejętniej wykorzystać dostępną technologię w procesie nauki języka angielskiego. Pokażemy z których aplikacji i w jaki sposób korzystać tak, aby nauka miała jeszcze większe efekty. Zapraszamy!",
-    "comment": "",
-    "category": "Nauki humanistyczne",
-    "presentation_type": [
-      "warsztat"
-    ],
-    "age_group": {
-      "noLimit": "nie",
-      "kindergarten": "nie",
-      "primary_school": "nie",
-      "primary_school_grades_1_to_3": "nie",
-      "primary_school_grades_4_to_6": "nie",
-      "primary_school_grades_7_to_8": "nie",
-      "secondary_school": "tak",
-      "adults": "nie"
-    },
-    "for_family": "nie",
-    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
-    "lecturer": "mgr Anna Kulczycka-Charusta, mgr Karolina Mańczyk",
-    "co_lecturer": "",
-    "city": "Wrocław",
-    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 105)",
-    "event_dates": [
-      1600682400
-    ],
-    "online_url": "",
-    "registration": "1-7.09, anna.kulczycka-charusta@uwr.edu.pl",
-    "number_of_seats": "25",
-    "disabled_accessibility": "nie dotyczy"
-  },
-  {
-    "id": "20381",
-    "title": "TED Talks jako współczesny standard skutecznej prezentacji",
-    "description": "W ostatnim czasie przemówienia wygłaszane w ramach corocznej konferencji TED zaczęły wyznaczać standard w zakresie przemówień publicznych. Znajomość sztuki skutecznego prezentowania jest kluczową umiejętnością w 21 wieku. Stąd, celem warsztatu jest pokazać jakimi narzędziami posługują się mówcy, których przemówienia zdobyły serca publiczności.",
-    "comment": "znajomość j. angielskiego na poziomie B2",
-    "category": "Nauka 2.0",
-    "presentation_type": [
-      "warsztat"
-    ],
-    "age_group": {
-      "noLimit": "nie",
-      "kindergarten": "nie",
-      "primary_school": "nie",
-      "primary_school_grades_1_to_3": "nie",
-      "primary_school_grades_4_to_6": "nie",
-      "primary_school_grades_7_to_8": "nie",
-      "secondary_school": "tak",
-      "adults": "nie"
-    },
-    "for_family": "nie",
-    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
-    "lecturer": "mgr Magdalena Chrzanowska",
-    "co_lecturer": "",
-    "city": "Wrocław",
-    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 02)",
-    "event_dates": [
-      1600844400
-    ],
-    "online_url": "",
-    "registration": "1-11.09, magdalena.chrzanowska@uwr.edu.pl",
-    "number_of_seats": "25",
-    "disabled_accessibility": "tak"
-  },
-  {
-    "id": "20382",
-    "title": "Tradycje i obyczaje kultywowane w Wielkiej Brytanii do dziś",
-    "description": "Prezentacja i warsztaty na temat kultywowanych do dziś obyczajów i tradycji w Wielkiej Brytanii.\r\nBritish Customs and Traditions (that you have probably never heard of )",
-    "comment": "",
-    "category": "Nauki humanistyczne",
-    "presentation_type": [
-      "warsztat",
-      "gra",
-      "konkurs"
-    ],
-    "age_group": {
-      "noLimit": "nie",
-      "kindergarten": "nie",
-      "primary_school": "nie",
-      "primary_school_grades_1_to_3": "nie",
-      "primary_school_grades_4_to_6": "nie",
-      "primary_school_grades_7_to_8": "nie",
-      "secondary_school": "tak",
-      "adults": "tak"
-    },
-    "for_family": "nie",
-    "organizer": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych",
-    "lecturer": "mgr Joanna Grzegorczyk",
-    "co_lecturer": "",
-    "city": "Wrocław",
-    "address": "Uniwersytet Wrocławski, Studium Praktycznej Nauki Języków Obcych, pl. Biskupa Nankiera 2/3 (s. 02)",
-    "event_dates": [
-      1600855200
-    ],
-    "online_url": "",
-    "registration": "1-16.09, joanna.grzegorczyk@uwr.edu.pl",
-    "number_of_seats": "25",
-    "disabled_accessibility": "tak"
-  }
+{
+   "id":6013,
+   "date":"2021-04-06T09:28:59",
+   "date_gmt":"2021-04-06T08:28:59",
+   "guid":{
+      "rendered":"https:\/\/www.festiwal.wroc.pl\/?post_type=events&#038;p=6013"
+   },
+   "modified":"2021-04-21T10:31:52",
+   "modified_gmt":"",
+   "slug":"how-to-kill-two-birds-with-one-stone-czyli-dlaczego-warto-jednoczesnie-uczyc-sie-slownictwa-i-gramatyki",
+   "status":"publish",
+   "type":"events",
+   "link":"https:\/\/www.festiwal.wroc.pl\/wydarzenia\/how-to-kill-two-birds-with-one-stone-czyli-dlaczego-warto-jednoczesnie-uczyc-sie-slownictwa-i-gramatyki\/",
+   "title":{
+      "rendered":"How to kill two birds with one stone, czyli dlaczego warto jednocześnie uczyć się słownictwa i gramatyki"
+   },
+   "content":{
+      "rendered":"<div class=\"pf-content\">\n<p>#uwr #humanistyka #angielski<\/p>\n<\/div>"
+   },
+   "excerpt":{
+      "rendered":""
+   },
+   "author":"10",
+   "featured_media":0,
+   "menu_order":0,
+   "comment_status":"closed",
+   "ping_status":"closed",
+   "additional_fields":{
+      "opis_wydarzenia":"W czasie prezentacji mowa będzie o tym jakie korzyści przynosi jednoczesne uczenie się słownictwa i gramatyki,  jak jedocześnie uczyć się słownictwa i gramatyki i jak wpływa to na nabywanie i rozwój wszystkich czterech sprawności językowych. Zaprezentowane zostaną przykładowe techniki i ćwiczenia pozwalające na uczenie się słownictwa i gramatyki w tym samym czasie; techniki, które pozwalają na efektywniejszą naukę w taki sposób, by nabyte struktury gramatyczne i słownictwo było stosowane naturalnie, poprawnie oraz na stałe weszły w aktywny zasób naszego języka.",
+      "numer_id_wydarzenia":"47",
+      "organizator":"Uniwersytet Wrocławski, Studium Praktycznej Nauki Języka Obcego",
+      "dziedzina_wydarzenia":[
+         "Nauki humanistyczne"
+      ],
+      "prowadzacy":"mgr Urszula Byra-Marciniak",
+      "afiliacja":"wykładowca j. angielskiego, Studium Praktycznej Nauki Języków Obcych, UWr",
+      "wspolprowadzacy":"",
+      "kontakt_dla_administracji_telefon":"695402896",
+      "kontakt_dla_administracji_email":"urszula.byra-marciniak@uwr.edu.pl",
+      "grupa_wiekowa":[
+         "Szkoła ponadpodstawowa"
+      ],
+      "forma_prezentacji":[
+         "wykład",
+         "warsztat"
+      ],
+      "zapisy_od":"05\/09\/2021",
+      "zapisy_do":"15\/09\/2021",
+      "kontakt_w_sprawie_zapisow":"urszula.byra-marciniak@uwr.edu.pl",
+      "data_wydarzenia_new":"20\/09\/2021 10:00",
+      "data_wydarzenia_2":"",
+      "data_wydarzenia_3":"",
+      "data_wydarzenia_4":"",
+      "data_wydarzenia_5":"",
+      "data_wydarzenia_6":"",
+      "data_wydarzenia_7":"",
+      "data_wydarzenia_8":"",
+      "data_wydarzenia_9":"",
+      "data_wydarzenia_10":"",
+      "data_wydarzenia_11":"",
+      "data_wydarzenia_12":"",
+      "data_wydarzenia_13":"",
+      "data_wydarzenia_14":"",
+      "data_wydarzenia_15":"",
+      "zajecia_w_formie":"",
+      "uwagi":"",
+      "miasto":[
+         "Wrocław"
+      ],
+      "miejsce":"MS Teams",
+      "sala":"",
+      "liczba_miejsc":"20",
+      "dostepnosc_dla_niepelnosprawnych":"Tak",
+      "uniwersytet_w_szkole":"Nie"
+   }
+}
   
 ]
